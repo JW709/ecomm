@@ -1,8 +1,8 @@
 # ecomm
 
-This is my first SPA created using create-react-app and react-router-dom. 
+This e-commerce website is my first SPA created using create-react-app and react-router-dom. 
 
-This was part of a requirement for the BrainStation web-development course. 
+This app was part of a requirement for the BrainStation web-development course. 
 Challenges included having the routes appear to be on separate pages, which I accomplished with a forEach() method.
 
 Todo:
